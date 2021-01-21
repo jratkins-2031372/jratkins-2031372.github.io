@@ -1,0 +1,89 @@
+body{
+	background-image: url('dark_wood.png');
+}
+
+p{
+	font-weight:bold;
+	color: white;
+	font-family: Arial;
+	font-variant-caps: small-caps;
+}
+
+h3{
+	color: #FFBC00;
+	font-size: 40px;
+	font-family: "Passion One";
+	margin-bottom: 0px;
+	font-style:italic;
+}
+
+ul{
+	list-style-type: none;
+	padding-left: 0px;
+
+}
+
+#Header{
+	width: 500px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:10px;
+	text-align:center;
+	border:solid 8px black;
+	background-color:#8E41D5;
+	box-shadow: 5px 10px 8px 10px #888888;
+}
+
+#Header h1{
+	font-size: 60px; 
+	font-family: "Passion One"; 
+	color: #FFBC00; 
+	font-weight: bold; 
+	border: 4px dotted gold;
+	font-stretch: expanded;
+}
+
+#LeftNav{
+	float: left;
+	width: 400px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:10px;
+	text-align:center;
+	padding-bottom: 8px;
+	border:solid 8px black;
+	background-color:#8E41D5;
+}
+
+#LeftNav img{
+	
+}
+
+a{
+	color:white;
+	font-weight:bold;
+	font-size:24px;
+	font-variant-caps: petite-caps;
+}
+
+#LeftNav h3{
+	
+}
+
+#Content{
+	width: 700px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:10px;
+	text-align:center;
+	padding: 15px;
+	border:solid 8px black;
+	background-color:#8E41D5;
+}
+
+#Footer{
+	text-align:center;
+	border:solid 8px black;
+	background-color:#8E41D5;
+}
+
